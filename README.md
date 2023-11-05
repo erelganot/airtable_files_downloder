@@ -46,18 +46,20 @@ python airtable_attachment_downloader.py
 
 The script will create directories corresponding to each record and download all associated attachments to their respective directories.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have suggestions for improvements or bug fixes, please feel free to fork this repository, make changes, and submit a pull request.
 
-##License
-This project is open-sourced.
+## License
 
-##Disclaimer
+This project is open-sourced under the this files License. See the LICENSE file for more information.
+
+
+## Disclaimer
 The provided script is on an "as-is" basis. The author is not responsible for any damages or losses that may arise from its use.
 
-##Support
+## Support
 Should you encounter any issues or have questions regarding this script, please file an issue on the GitHub repository.
 
-##Acknowledgments
+## Acknowledgments
 Gratitude to the creators and maintainers of the Airtable API.
 This project was inspired by the needs of the Airtable community for better data management tools.
